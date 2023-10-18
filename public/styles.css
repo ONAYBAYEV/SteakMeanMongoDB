@@ -1,0 +1,27 @@
+/* Custom title style */
+.custom-title {
+    color: #333;
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 20px;
+}
+
+/* Custom table style */
+.custom-table {
+    background-color: #fff;
+}
+
+/* Custom subtitle style */
+.custom-subtitle {
+    font-size: 20px;
+    margin-top: 20px;
+}
+
+/* Custom button style */
+.btn-btn-custom {
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+}
+
+/* Add more custom styles as needed */
